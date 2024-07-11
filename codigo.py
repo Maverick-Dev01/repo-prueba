@@ -1,4 +1,4 @@
-nombre = "Lizbeth"
+nombre = "Richard"
 apellido = "Herrera"
 
 
