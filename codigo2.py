@@ -1,0 +1,3 @@
+nombre = "Pedro"
+
+print (nombre)
