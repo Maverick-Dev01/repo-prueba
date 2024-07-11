@@ -1,7 +1,8 @@
-nombre = "Antonio"
-apellido = "Herrera"
+nombre = "Robterto"
+apellido = "Pereira"
 
 
 saludo = "Hola " + nombre + " " + apellido + " guapo"
 
 print (saludo)
+ 
