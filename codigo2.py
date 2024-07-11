@@ -1,3 +1,0 @@
-nombre = "Pedro"
-
-print (nombre)
